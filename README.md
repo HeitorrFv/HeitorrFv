@@ -19,7 +19,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gosto de resolver problemas complexos através da lógica e construir projetos interativos.
 
 * 🎓 Cursando **Técnico em Desenvolvimento de Jogos** no SENAI.
-* 🤖 **Programador de Robótica** na equipe de **FTC** (FIRST Tech Challenge)
+* 🤖 **Programador de Robótica** em equipe de **FTC** (FIRST Tech Challenge)
 * 🧠 Formado no curso de **Assistente de Desenvolvimento de IA** (Foco em Lógica e Python).
 * 🥇 **1º Lugar** na Game Jam feita pela Associação dos Criadores de Jogos de Goiás (GAMEGO) 2026
 * 🌱 Atualmente me aprofundando na **Godot Engine** e aprimorando minhas habilidades em **Java**
