@@ -4,7 +4,7 @@
 
   <!-- Efeito de digitação (Bem-vindo) -->
   <a href="https://github.com/Heitorrfv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Bem-vindo(a)+ao+meu+perfil!;Welcome+to+my+profile!;Game+Dev+%7C+Robotics+%7C+Programmer+%7C+Gay" alt="Typing Welcome" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Bem-vindo(a)+ao+meu+perfil!;Welcome+to+my+profile!;Game+Dev+%7C+Robotics+%7C+Programmer" alt="Typing Welcome" />
   </a>
 </div>
 
