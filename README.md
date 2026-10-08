@@ -9,7 +9,6 @@ Sou um desenvolvedor apaixonado por tecnologia, jogos e robótica.
 - 🎓 Cursando **Técnico em Desenvolvimento de Jogos** no SENAI.
 - 🤖 **Programador de Robótica** na equipe de **FTC** (FIRST Tech Challenge) [**Java**].
 - 🧠 Formado como **Assistente de Desenvolvimento de IA** focado em lógica com [**Python**].
-- 🥇 **1º Lugar - SENAI Game Jam** na categoria de desenvolvimento.
 - 🌱 Aprendendo e explorando cada vez mais o universo do código.
 
 ## 🌐 Redes Sociais
