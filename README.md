@@ -40,8 +40,8 @@ Sou um desenvolvedor apaixonado por tecnologia, jogos e robótica.
 
 <div align="center">
   
-  <img src="https://github-readme-stats.shion.dev/api?username=[SEU_USUARIO_GITHUB]&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=[SEU_USUARIO_GITHUB]&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=HeitorrFv&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=HeitorrFv&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="150" alt="GitHub Streak" />
   
   <br/>
   
