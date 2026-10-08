@@ -29,7 +29,7 @@ Sou um desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. 
 ### 🌐 Contato | Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU_LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white)](mailto:heitorfv05@gmail.com)
 
 ---
 
