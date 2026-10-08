@@ -45,6 +45,6 @@ Sou um desenvolvedor apaixonado por tecnologia, jogos e robótica.
   
   <br/>
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=[SEU_USUARIO_GITHUB]&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Heitorrfv&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact" height="150" alt="Top Languages" />
 
 </div>
