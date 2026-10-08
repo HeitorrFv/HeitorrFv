@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20Heitor!&fontSize=40&fontAlignY=35" width="100%" alt="Banner de Boas Vindas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20[SEU_NOME]!&fontSize=40&fontAlignY=35" width="100%" alt="Banner de Boas Vindas" />
 
 <br>
 
