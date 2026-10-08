@@ -12,40 +12,27 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="180" alt="Tech GIF">
-    </td>
-    <td>
-       <h3>🇧🇷 Sobre Mim</h3>
-       <ul>
-         <li>🎓 Cursando <b>Técnico de Jogos no SENAI Fatesg</b> e focado na criação de experiências interativas.</li>
-         <li>🤖 <b>Programador de Robótica (FTC)</b>, trabalhando com Java, desenvolvimento de lógicas e microcontroladores (ESP32).</li>
-         <li>🏆 <b>1º Lugar</b> em uma Gamejam promovida pelo SENAI e envolvido na comunidade Gamejam Goiana.</li>
-         <li>🧠 Especialização em Lógica de Programação e <b>Assistente de Desenvolvimento de IA</b> (Python).</li>
-       </ul>
-       <hr>
-       <h3>🇺🇸 About Me</h3>
-       <ul>
-         <li>🎓 Studying <b>Game Development at SENAI</b>, passionate about mechanics (Godot) and Game Design.</li>
-         <li>🤖 <b>Robotics Programmer (FTC)</b>, utilizing Java and hardware integrations.</li>
-         <li>🏆 <b>1st Place Winner</b> in a SENAI Gamejam and active in the game dev community.</li>
-         <li>🧠 Certified in Logic and <b>AI Development Assistant</b> with Python.</li>
-       </ul>
-    </td>
-  </tr>
-</table>
+### 💫 Sobre Mim | About Me
+
+Sou um desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gosto de resolver problemas complexos através da lógica e construir projetos interativos e eficientes.
+
+- 🎓 Cursando **Técnico em Desenvolvimento de Jogos** no SENAI.
+- 🤖 **Programador de Robótica** na equipe de **FTC** (FIRST Tech Challenge).
+- 🧠 Formado no curso de **Assistente de Desenvolvimento de IA** (Foco em Lógica e Python).
+- 🥇 **1º Lugar** na SENAI Game Jam (Categoria Desenvolvimento).
+- 🌱 Atualmente me aprofundando na **Godot Engine** e aprimorando minhas habilidades em **Java** e **Python**.
 
 ---
 
-### 🌐 Redes Sociais / Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU_LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
+### 🌐 Contato | Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU_LINKEDIN])
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
 
 ---
 
-### 💻 Tecnologias / Tech Stack:
+### 💻 Tecnologias | Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) 
@@ -54,16 +41,15 @@
 
 ---
 
-### 📊 Estatísticas / GitHub Stats:
+### 📊 Estatísticas | GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Heitorrfv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Heitorrfv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Heitorrfv&theme=dark&hide_border=false&border_color=333333&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitorrfv&theme=dark&hide_border=false&border_color=333333&bg_color=000000&title_color=ffffff&text_color=cccccc&layout=compact" height="160" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=Heitorrfv&icon=0&color=000000" alt="Views">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Heitorrfv&label=Profile%20Views&color=000000&style=flat" alt="Views">
 </div>
