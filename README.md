@@ -14,7 +14,7 @@
 
 <br>
 
-### 💫 Sobre Mim | About Me
+### 💫 Sobre Mim
 
 Sou um desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gosto de resolver problemas complexos através da lógica e construir projetos interativos.
 
