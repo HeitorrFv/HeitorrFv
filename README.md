@@ -26,9 +26,8 @@ Sou um desenvolvedor apaixonado por tecnologia, desenvolvimento de jogos e robó
 ### 🌐 Redes Sociais | Socials:
 
 <a href="https://discord.gg/SEU_LINK_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:SEU_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:heitorfv05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ---
 
