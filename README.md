@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Bem-vindo(a)+ao+meu+perfil!+👋;Welcome+to+my+profile!+👋" alt="Typing SVG" />
+  <!-- Banner GIF Minimalista -->
+  <img src="https://i.pinimg.com/originals/91/33/c0/9133c0bd40e34c9ce1e2ea3cde787a7d.gif" alt="Banner Minimalista" width="100%" height="200" style="object-fit: cover; border-radius: 10px;"/>
+
+  <!-- Efeito de digitação (Bem-vindo) -->
+  <a href="https://github.com/Heitorrfv">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Bem-vindo+ao+perfil+do+Heitor!;Welcome+to+Heitor's+profile!;Game+Dev+%7C+Robotics+%7C+Programmer" alt="Typing Welcome" />
+  </a>
 </div>
 
-<!-- O GIF TOPOGRÁFICO -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/24/76/c4/2476c4bd3f0cbde12f60d69103c8cde7.gif" width="100%" style="max-height: 200px; object-fit: cover; border-radius: 12px; margin-bottom: 20px;" alt="Topographic Animation" />
-</div>
-
-<br/>
+---
 
 ### 💫 Sobre Mim | About Me
 
@@ -20,39 +21,39 @@ Sou um desenvolvedor apaixonado por tecnologia, desenvolvimento de jogos e robó
 * 🥇 **1º Lugar - SENAI Game Jam** na categoria de desenvolvimento.
 * 🌱 Atualmente me aprofundando em **Godot Engine** e boas práticas de código.
 
-<br/>
+---
 
 ### 🌐 Redes Sociais | Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU_LINKEDIN])
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
+<a href="https://discord.gg/SEU_LINK_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:SEU_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-<br/>
+---
 
 ### 💻 Tecnologias | Tech Stack:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=328BCE)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-<br/>
+---
 
 ### 📊 Estatísticas | GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=[SEU_USUARIO_GITHUB]&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=[SEU_USUARIO_GITHUB]&theme=dark&hide_border=false&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" height="150" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=[SEU_USUARIO_GITHUB]&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Heitorrfv&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Heitorrfv&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=9f9f9f" height="160" alt="Top Languages" />
+</p>
 
 ---
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=[SEU_USUARIO_GITHUB]&icon=0&color=000000&label=VISUALIZAÇÕES" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=Heitorrfv&icon=0&color=000000&label=VISUALIZAÇÕES" alt="Contador de Visitas" />
   </a>
 </div>
