@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33786800/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=220&section=header&text=Heitor&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Programmer%20%E2%80%A2%20Robotics%20(FTC)%20%E2%80%A2%20Game%20Developer&descSize=18&descAlignY=60" width="100%" alt="header" />
