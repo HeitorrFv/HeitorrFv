@@ -33,11 +33,7 @@ Sou desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,godot,git,github&theme=dark" alt="Linguagens e engine" />
-
-<br><br>
-
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,godot,git,github&theme=dark" alt="Java, Python, Godot, Git, GitHub" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/assets/esp32.svg" width="48" height="48" alt="ESP32" />
 
 </div>
 
@@ -45,12 +41,7 @@ Sou desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,notion&theme=dark" alt="Ferramentas" />
-
-<br><br>
-
-![Aseprite](https://img.shields.io/badge/Aseprite-000000?style=flat-square&logo=aseprite&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,notion&theme=dark" alt="VS Code, Android Studio, Figma, Notion" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/assets/aseprite.svg" width="48" height="48" alt="Aseprite" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/assets/canva.svg" width="48" height="48" alt="Canva" />
 
 </div>
 
