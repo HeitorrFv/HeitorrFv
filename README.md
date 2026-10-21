@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/33786800/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=220&section=header&text=Heitor&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Programmer%20%E2%80%A2%20Robotics%20(FTC)%20%E2%80%A2%20Game%20Developer&descSize=18&descAlignY=60" width="100%" alt="header" />
@@ -54,6 +55,9 @@ Sou desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gos
 <img src="https://github-readme-stats.shion.dev/api?username=Heitorrfv&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" alt="Stats" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Heitorrfv&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="165" alt="Top languages" />
 
+<br>
+
+<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
 
 </div>
 
