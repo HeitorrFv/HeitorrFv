@@ -33,7 +33,7 @@ Sou desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,godot,git,github&theme=dark" alt="Java, Python, Godot, Git, GitHub" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/assets/esp32.svg" width="48" height="48" alt="ESP32" />
+<img src="https://skillicons.dev/icons?i=java,python,godot,git,github&theme=dark" alt="Java, Python, Godot, Git, GitHub" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/esp32.svg" width="48" height="48" alt="ESP32" />
 
 </div>
 
@@ -41,7 +41,7 @@ Sou desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,notion&theme=dark" alt="VS Code, Android Studio, Figma, Notion" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/assets/aseprite.svg" width="48" height="48" alt="Aseprite" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/assets/canva.svg" width="48" height="48" alt="Canva" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,notion&theme=dark" alt="VS Code, Android Studio, Figma, Notion" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/aseprite.svg" width="48" height="48" alt="Aseprite" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Heitorrfv/Heitorrfv/main/canva.svg" width="48" height="48" alt="Canva" />
 
 </div>
 
