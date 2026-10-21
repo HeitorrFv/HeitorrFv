@@ -54,9 +54,6 @@ Sou desenvolvedor apaixonado por tecnologia, robótica e criação de jogos. Gos
 <img src="https://github-readme-stats.shion.dev/api?username=Heitorrfv&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="165" alt="Stats" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Heitorrfv&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="165" alt="Top languages" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Heitorrfv&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true" width="100%" alt="Activity graph" />
 
 </div>
 
